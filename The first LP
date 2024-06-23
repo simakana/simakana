@@ -1,0 +1,186 @@
+<!DOCTYPE html>
+<html lang="ja">
+    <head>
+        <meta charset="utf-8">
+        <title>Rose de deosavon</title>
+        <meta name="description" content="ほんのりローズの香り、殺菌成分配合のボディソープ">
+        <link rel="icon" type="image/png" href="images/favicon.png">
+
+        <style>
+        .shadow-text {
+            text-shadow: 2px 2px 2px white;
+        }
+        .vertical-text {
+            writing-mode: vertical-rl;
+        }
+        </style>
+
+    <!-- CSS -->
+        <link ref="stylesheet" href="https://unpkg.com/ress/dist/ress.min.css">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@200..900&display=swap" rel="stylesheet">
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+
+    <body>
+    <div id="home" class="big-bg">
+        <div class="home-content wrapper">
+        <div class="shadow-text1">毎日使って、</div>
+        <div class="shadow-text2">臭</div>
+        <div class="shadow-text3">いにくい</div>
+        <div class="shadow-text2">カラダ</div>
+        <div class="shadow-text3">へ</div>
+
+        <div class="item1">
+            <img src="images/bottle.png" alt="">
+        </div> 
+
+        <div class="container">
+            <a class="circle">殺菌成分配合</a>
+            <a class="circle">外部医薬品</a>
+            <a class="circle">日本製</a>
+        </div>
+       </div><!-- /.home-content -->
+    </div><!-- /#home -->
+
+    <div id="second" class="big-bg">
+        <div class="second-content wrapper">
+        <h4>ほんのりローズの香り</h4>
+        <h1>殺菌成分配合の</h1>
+        <h1>ボディソープ</h1>
+        <a class="button" href="menu.html">購入ページはこちら</a>
+       </div><!-- /.second-content -->
+    </div><!-- /#second -->
+
+    <div id="third" class="big-bg">
+        <div class="third-content wrapper">
+        
+        <a class="vertical-text1">いつも通り洗うだけで</a>
+        <a class="vertical-text2">毛穴までしっかり殺菌して</a>
+        <a class="vertical-text3">体臭・汗臭ゼロ！</a>
+        
+      </div><!-- /.third-content -->
+    </div><!-- /#third -->
+
+    <div id="fourth" class="big-bg">
+        <div class="fourth-content wrapper">
+        <h4>POINT</h4>
+        <h1>Rose de savon</h1>
+        <h2>ココ</h2>
+        <h3>がおすすめ！</h3>
+
+        <div class="box1">
+            <div class="box2">1</div>
+            <div class="box2">殺菌効果で長時間臭わない</div>
+            <p>殺菌成分のイソプロピルメチルフェノールが、臭いの原因菌を<br>
+            殺菌して寄せ付けなくすることで長時間臭いません。</p>
+        </div>
+        <div class="box1">
+            <div class="box2">2</div>
+            <div class="box2">届きにくい背中ニキビも防ぐ</div>
+            <p>いつも通り洗うだけで、ニキビの元になる原因菌も根こそぎ<br>
+            殺菌して清潔で爽快な肌を保つことができます。</p>
+        </div>
+        <div class="box1">
+            <div class="box2">3</div>
+            <div class="box2">ほんのりとしたバラの香水効果</div>
+            <p>バラの香りがほのかにカラダに残ります。全身バラの香りで、<br>
+            満員電車での接近戦も臭いを気にせず安心です。</p>
+        </div>
+        
+        <a class="button" href="menu.html">購入ページはこちら</a>
+       </div><!-- /.fourth-content -->
+    </div><!-- /#fourth-->
+
+    <div id="fifth" class="big-bg">
+        <div class="fifth-content wrapper">
+        <h1>汗や臭いの対策は</h1>
+        <h2>本当にそれで大丈夫？</h2>
+
+        <div class="item3">
+            <img src="images/trouble1.jpg" alt="">
+        </div>
+
+        <div class="square">気になる臭いを<br>強い香りでごまかす</div>
+
+        <div class="item3">
+            <img src="images/trouble2.jpg" alt="">
+        </div>
+
+        <div class="square">デオドラント剤を<br>大量に使ってしまう</div>
+
+        <div class="item3">
+            <img src="images/trouble3.jpg" alt="">
+        </div>
+
+        <div class="square">靴を脱いだ時<br>嫌な臭いを隠せない</div>
+
+        <div class="item3">
+            <img src="images/trouble4.jpg" alt="">
+        </div>
+
+        <div class="square">背中のニキビが<br>なかなか治らない</div>
+       </div><!-- /.fifth-content -->
+    </div><!-- /#fifth-->
+
+    <div id="sixth" class="big-bg">
+        <div class="sixth-content wrapper">
+
+        <div class="shape">
+            
+            <h4>根本的な原因と向き合いたい！</h4>
+            <h1>そんな時には<br>殺菌成分配合の<br>ボディソープを<br>使いましょう。</h1>
+            <img src="images/bottle.png" alt="">
+        </div>
+
+       </div><!-- /.sixth-content -->
+    </div><!-- /#sixth-->
+
+    <div id="seventh" class="big-bg">
+        <div class="seventh-content wrapper">
+        <h1>レビュー紹介</h1>
+
+        <div class="space">
+            <h2>気持ちが上向きになるボディソープ</h2>
+            <h3>★★★★★</h3>
+            <p>ストレスの多い時には入浴は絶好の癒しの時間です。好きな良い香り<br>に満たされると気持ちが上向きになります。体臭対策にもなり嬉しい<br>ボディソープです。</p>
+        </div>
+        <div class="space">
+            <h2>冬場の乾燥する肌がチクチクしない！</h2>
+            <h3>★★★★★</h3>
+            <p>前回の分が切れて、しばらくの間別のボディソープを使っていました<br>が、冬場はやはりこれじゃないとダメみたいです。乾燥して肌がチク<br>チクしていましたが、これは刺激がない。</p>
+        </div>
+        <div class="space">
+            <h2>ニキビも減って、体臭も気にならない</h2>
+            <h3>★★★★★</h3>
+            <p>背中ニキビのひどい娘と妻が使用。<br>ニキビも減って、汗をかいても体臭を気にすることがなくなったと。<br>リピさせてもらいます。</p>
+        </div>
+        <div class="space">
+            <h2>ふんわり香る匂いが良い！</h2>
+            <h3>★★★★★</h3>
+            <p>デオドラント効果のあるものでローズの香りを探してこちらに辿り<br>着きました。コスパも良いし、キツい香りではなく、ふんわり香るので<br>良いです。</p>
+        </div>
+        <div class="space">
+            <h2>何度もリピートしています。</h2>
+            <h3>★★★★★</h3>
+            <p>このボディソープはとても良いです。今ではこのボディソープの<br>おかげで何も気にならなくなりました。何度もリピしています。</p>
+        </div>
+
+       </div><!-- /.seventh-content -->
+    </div><!-- /#seventh-->
+
+    <div id="eighth">
+        <div class="eighth wrapper">
+        <a class="vertical-text4">あなたも今日から</a>
+        <a class="vertical-text5">臭いにくいカラダへ！</a>
+        
+            <img src="images/flower.jpg" alt="">
+            <img src="images/bottle.png" alt="">
+
+        <a class="button" href="menu.html">購入ページはこちら</a>
+       </div><!-- /.eighth-content -->
+    </div><!-- /#eighth-->
+
+    </body>
+</html>
